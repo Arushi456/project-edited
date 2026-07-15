@@ -199,7 +199,7 @@ Create a `.env` file.
 
 ```env
 LLM_PROVIDER=ollama
-OLLAMA_MODEL=llama3
+OLLAMA_MODEL=llama3.2:3b
 ```
 
 ### Gemini
